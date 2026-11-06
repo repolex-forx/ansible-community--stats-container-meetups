@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "stats-container-meetups",
+  "versions": [
+    {
+      "commit": "557442414ed4f3e618a6e3c07a7ff867a8dadd44",
+      "tag": "",
+      "parsed_at": "2026-11-06T19:43:14.980028+00:00"
+    }
+  ]
+}
