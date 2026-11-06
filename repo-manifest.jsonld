@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/stats-container-meetups/commit/557442414ed4f3e618a6e3c07a7ff867a8dadd44",
       "git:hexsha": "557442414ed4f3e618a6e3c07a7ff867a8dadd44",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
