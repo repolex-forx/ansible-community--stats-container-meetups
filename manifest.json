@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "ansible-community",
+  "repo": "stats-container-meetups",
+  "versions": [
+    {
+      "commit": "557442414ed4f3e618a6e3c07a7ff867a8dadd44",
+      "parsed_at": "2026-11-06T19:40:34.505451+00:00",
+      "filetree": "filetree/557442414ed4f3e618a6e3c07a7ff867a8dadd44.nq.gz",
+      "blobs": [
+        "blob/a7a7213dba99530da166a279d7023d082d549081.nq.gz",
+        "blob/96fcd7e5dae1942767365474e4efeadca8309afe.nq.gz",
+        "blob/b4d90790223b95552556ea895ac541a489a7379d.nq.gz",
+        "blob/de2fc14efa82a42d1125af64da5a4e3fd8b4468f.nq.gz",
+        "blob/0c870c121d1a21fd484c151d63d51fb08e9a7b19.nq.gz",
+        "blob/22a1dafaf806225fc43caece8349082b1fd0ab03.nq.gz",
+        "blob/c9ec7ad9bb931690121c4b7a721d82da18419bd7.nq.gz",
+        "blob/16cd0f759bb037c9e14a882182987a57dac8a77e.nq.gz",
+        "blob/1fa3986bbc93f2bddb7c23d6fc9a34501947a6f6.nq.gz",
+        "blob/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7.nq.gz",
+        "blob/99a44d6e6109df14e472f57bdbb7f32c9040dc0d.nq.gz",
+        "blob/334ae1074affe7df4916bce577cb8a5aeabc3a89.nq.gz",
+        "blob/2e2d3329302acc17a390b7bf2db7d0361149d043.nq.gz",
+        "blob/2dbc2e6372dd82692ef558518e4ee5930dcf03be.nq.gz",
+        "blob/4afde63e99e090d1fb76545974a1e6da8af6472a.nq.gz",
+        "blob/7d554571f9860ba4fdb1f6de8cae10ca90e45c2a.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
